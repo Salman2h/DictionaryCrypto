@@ -1,0 +1,28 @@
+Ok, so `pts` is a 2d array of plaintexts that we're guessing, where the first index is the number of words in the plaintext. The condition on the `while` is just a way of running until we only have 1 plaintext, where that 1 plaintext is not the empty string we initialized `pts` with.
+
+Since `pts` is a 2d array where the first "dimension" is the number of words, the current number of words we're trying in the nth iteration is just the length of the array. `num_words` could also just be an int initialized to 0 outside the loop and incremented at the end of each iteration. This is probably the most confusing part of the code -- it would have made it more readable to just have an int outside the while loop that's incremented.
+
+Next, we append an empty array to the end of `pts` which will hold the plaintexts that are determined to be possible in this loop iteration.
+
+Then, for each plaintext that was valid last loop iteration, and for each word in our dictionary, we create a new plaintext by appending the word to the prior plaintext.
+
+After that, we just check to see if the new plaintext is valid, and if so, add it to the empty array in `pts` we created earlier.
+
+Hopefully that makes sense! Let me know if you have any more questions of course.
+
+
+
+stovepipes 
+
+20,50,65,10,9,55,4,9,5,4
+
+((ArrayList)pts[0]).Add("");
+  pts.Add(new ArrayList());
+
+
+// why  if (aList.Count >= (int)frequency[aKey])
+                                {
+                                    isMatched = false;
+                                }
+
+
