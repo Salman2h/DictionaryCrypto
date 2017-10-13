@@ -1,0 +1,11 @@
+C:\Projects\VendorPortal10\Development\Team GoGreen\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Projects\VendorPortal10\Development\Team GoGreen\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Projects\VendorPortal10\Development\Team GoGreen\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Projects\VendorPortal10\Development\Team GoGreen\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Projects\VendorPortal10\Development\Team GoGreen\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\rrashid\Desktop\Salman\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\rrashid\Desktop\Salman\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\rrashid\Desktop\Salman\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\rrashid\Desktop\Salman\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\rrashid\Desktop\Salman\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\rrashid\Desktop\Salman\ConsoleApplication1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
