@@ -1,8 +1,0 @@
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DictionaryCrypto.exe
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DictionaryCrypto.pdb
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DictionaryCrypto.csprojResolveAssemblyReference.cache
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DictionaryCrypto.Properties.Resources.resources
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DictionaryCrypto.csproj.GenerateResource.Cache
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DictionaryCrypto.exe
-D:\Rana\C\Users\Old Win Data\Data\School\ModernCryptography\DictionaryCrypto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\DictionaryCrypto.pdb
